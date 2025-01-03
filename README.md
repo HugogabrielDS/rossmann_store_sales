@@ -26,7 +26,7 @@ O CFO da Rossmann precisa de uma previsão confiável das vendas para as próxim
 - **Flask**
 - **Heroku**
 - **Telegram Bot API**
-- 
+
 ## Principais Hipóteses 
 1. Lojas com competidores mais próximos deveriam vender menos.
   - **Resultado**: Falso, lojas com competidores mais próximos vendem mais.
